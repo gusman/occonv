@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore vscode setting
+.vscode
+
+# Ignore autogenerate class by pybind
+occonv/oc/bind/openconfig_*.py

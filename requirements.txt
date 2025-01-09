@@ -1,0 +1,4 @@
+setuptools
+pyang
+pyangbind
+ttp-sros-parser
